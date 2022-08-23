@@ -11,13 +11,20 @@ Magento 2 FreeCharge is a must-have payment extension for your online store if y
 
 
 ##Features of Meetanshi’s Magento 2 FreeCharge Payment Gateway
-●     Easy integration of FreeCharge payment gateway with Magento 2 store.
-●     Sandbox mode for testing purposes.
-●     Show or hide the FreeCharge logo to the customers.
-●     Option to set custom title for the payment gateway.
-●     Allow customers from only selected countries to checkout using the FreeCharge payment gateway.
-●     The customers can get complete details about the payments made through this payment gateway in their ‘My Orders’ section.
-●     Admin can also check payment details of the orders placed through FreeCharge in the Order View section in the backend.
+
+● Easy integration of FreeCharge payment gateway with Magento 2 store.
+
+● Sandbox mode for testing purposes.
+
+● Show or hide the FreeCharge logo to the customers.
+
+● Option to set custom title for the payment gateway.
+
+● Allow customers from only selected countries to checkout using the FreeCharge payment gateway.
+
+● The customers can get complete details about the payments made through this payment gateway in their ‘My Orders’ section.
+
+● Admin can also check payment details of the orders placed through FreeCharge in the Order View section in the backend.
  
 Integrate India’s highly popular payment solution provider - FreeCharge with your online Magento 2 store in just few clicks using Meetanshi’s extension.
 
